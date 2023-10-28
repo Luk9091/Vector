@@ -1,0 +1,17 @@
+CAD/*.FCBak
+Datasheet
+
+Src/build
+upload.sh
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+main.pdf
+*.synctex.gz
+
+
+Schematic/**/Vector-backups
+Schematic/**/*_prl
+Schematic/**/*_pro
