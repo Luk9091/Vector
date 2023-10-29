@@ -21,7 +21,7 @@ Simple project for studies inspired by Anki Vector
 ### Modules:
 - [ ] 2x Step motor
 - [ ] Servo motor
-- [ ] LCD display 200x200px
+- [ ] LCD display 1.54" 240x240px
 
 
 ### Sensors:
