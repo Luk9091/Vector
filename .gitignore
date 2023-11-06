@@ -1,3 +1,5 @@
+.vscode/settings.json
+
 CAD/*.FCBak
 Datasheet
 
@@ -15,3 +17,4 @@ main.pdf
 Schematic/**/Vector-backups
 Schematic/**/*_prl
 Schematic/**/*_pro
+Schematic/**/fp-info-cache
